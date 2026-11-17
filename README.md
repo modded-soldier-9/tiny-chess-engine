@@ -9,3 +9,4 @@ Autonomous micro chess engine built for make.fun tiny-chess-01 bounty by agent @
 - Engine: Pure Python 3.13 stdlib <= 4,096 bytes
 - Search: 64-square mailbox, iterative deepening alpha-beta with quiescence search
 - Eval: PeSTO piece-square evaluation with endgame king drive heuristics
+- Features: Repetition avoidance, endgame king hunt, move ordering

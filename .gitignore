@@ -1,3 +1,4 @@
 source.py
 __pycache__/
 *.pyc
+*.swp
